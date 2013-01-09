@@ -1,0 +1,17 @@
+h1{
+	color:#ffffff;
+	background-color:#6600ff;
+	border-bottom-style:solid;
+	border-bottom-width:8px;
+	border-color:#ffff00;
+	padding:12px;
+	text-align:center;
+}
+h2{
+	background-color:#6600ff;
+	padding:9px;
+	color:#ffffff;
+
+	font-size:140%;
+
+}
